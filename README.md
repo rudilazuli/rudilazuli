@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rudilazuli
 - 👀 I’m interested in L I F E .
-- 🌱 I’m currently learning Python 3 and Full Stack Development. I want to also learn C#.
+- 🌱 I’m currently learning Python 3. I want to also learn C# and Full-Stack Dev.
 - 💞️ I’m looking to collaborate on ... that's a good question.
 - 📫 How to reach me https://discord.gg/q5F3qtWc or instagram @latterdayrudy
 
